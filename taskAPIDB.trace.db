@@ -1,0 +1,6 @@
+2023-10-27 16:23:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TASK" not found (this database is empty); SQL statement:
+insert into task (id, completed, title) values (default, ?, ?) [42104-214]
+2023-10-27 16:27:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TASK" not found (this database is empty); SQL statement:
+insert into task (id, completed, title) values (default, ?, ?) [42104-214]
